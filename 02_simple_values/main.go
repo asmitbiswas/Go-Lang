@@ -7,5 +7,7 @@ func main() {
 	//integers
 	fmt.Println(1 + 1)
 	// string
-	fmt.Println()
+	fmt.Println("Hello golang")
+	// bool
+	fmt.Println(true)
 }
