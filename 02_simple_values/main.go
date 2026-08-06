@@ -10,4 +10,7 @@ func main() {
 	fmt.Println("Hello golang")
 	// bool
 	fmt.Println(true)
+	fmt.Println(false)
+	//float
+	fmt.Println(6.7)
 }
