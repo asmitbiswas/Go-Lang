@@ -7,6 +7,8 @@ func main() {
 	// infer
 	// var name = "Asmit"
 	// var isPassed bool = true
-	var age int = 36
-	fmt.Println(age)
+	// var age int = 36
+	// short-hand method
+	name := "Asmit"
+	fmt.Println(name)
 }
