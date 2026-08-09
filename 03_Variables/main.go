@@ -9,6 +9,11 @@ func main() {
 	// var isPassed bool = true
 	// var age int = 36
 	// short-hand method
-	name := "Asmit"
+	// name := "Asmit"
+
+	var name string
+
+	name = "Asmit"
+
 	fmt.Println(name)
 }
