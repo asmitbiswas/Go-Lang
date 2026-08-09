@@ -8,7 +8,13 @@ import "fmt"
 func main() {
 	// const passKey string = "53***********"
 
-	const age = 45
+	// const age = 45
 
-	fmt.Println(age)
+	// fmt.Println(age)
+
+	const (
+		host = "localhost:"
+		port = "3000"
+	)
+	fmt.Println(host, port)
 }
