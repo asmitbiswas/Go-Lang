@@ -17,11 +17,15 @@ func main() {
 
 	// classic loop
 
-	for i:=0; i< 5; i++{
+	// for i:=0; i< 5; i++{
 		
-		if i <= 2 {
-			continue
-		}
+	// 	if i <= 2 {
+	// 		continue
+	// 	}
+	// 	fmt.Println(i)
+	// }
+
+	for i:= range 99 {
 		fmt.Println(i)
 	}
 }
