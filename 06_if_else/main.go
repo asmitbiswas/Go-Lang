@@ -2,7 +2,7 @@ package main
 
 import "fmt"
 
-func main(){
+func main() {
 	// age:= 15
 
 	// if age >= 18 {
@@ -11,9 +11,9 @@ func main(){
 	// 	fmt.Println("Person isn't an adult")
 	// }
 
-	age:= 112
+	age := 112
 
-	if  age >= 18 {
+	if age >= 18 {
 		fmt.Println("Person is a adult")
 	} else if age >= 12 {
 		fmt.Println("Person is not an adult")
